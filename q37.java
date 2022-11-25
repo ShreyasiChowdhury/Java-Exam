@@ -30,7 +30,7 @@ class Triangle extends TwoD {
 	}
 }
 
-class Test {
+class q37 {
 	public static void main(String args[]) {
 		TwoD obj1 = new Rectangle(5.25, 4.75);
 		obj1.area();
